@@ -1,5 +1,5 @@
 # Getting-Started-with-Thru-Alphanet
-his repo is based on Unto Labs' official Thru onboarding guide, plus fixes for a number of bugs encountered during setup as of July 2026 (CLI v0.2.38 / v0.2.39). If you hit an error following the official guide, check the Debug section below before assuming you did something wrong — some of these are upstream problems, not user error.
+This repo is based on Unto Labs' official Thru onboarding guide, plus fixes for a number of bugs encountered during setup as of July 2026 (CLI v0.2.38 / v0.2.39). If you hit an error following the official guide, check the Debug section below before assuming you did something wrong — some of these are upstream problems, not user error.
 
 If you just want to get unblocked fast, jump to fix-thru-toolchain.sh, which automates the steps below.
 
